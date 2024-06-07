@@ -1,0 +1,10 @@
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\bin\Debug\Assignment 5 - Event Organizer.exe.config
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\bin\Debug\Assignment 5 - Event Organizer.exe
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\bin\Debug\Assignment 5 - Event Organizer.pdb
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\obj\Debug\Assignment 5 - Event Organizer.csproj.AssemblyReference.cache
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\obj\Debug\Assignment_5___Event_Organizer.Properties.Resources.resources
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\obj\Debug\Assignment 5 - Event Organizer.csproj.GenerateResource.cache
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\obj\Debug\Assignment 5 - Event Organizer.csproj.CoreCompileInputs.cache
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\obj\Debug\Assignment 5 - Event Organizer.exe
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\obj\Debug\Assignment 5 - Event Organizer.pdb
+D:\Coding and Studies\Malmö C# I\Assignment 5 - Event Organizer\Assignment 5 - Event Organizer\obj\Debug\Assignment_5___Event_Organizer.MainFrom.resources
